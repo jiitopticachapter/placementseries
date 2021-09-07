@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "..\\ieee-xenith-main"
+		},
+		{
+			"path": "..\\placement series"
+		},
+		{
+			"path": "..\\new"
+		},
+		{
+			"path": "..\\final code"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "final code"
+	}
+}

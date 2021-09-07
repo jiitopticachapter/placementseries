@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap");
+.aboutus{
+    background-color: rgba(23,28,40,255);
+    margin-top: -20px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 20px;
+}
+
+.aboutus p{
+    font-family: Montserrat;
+    color: white;
+}
+
+.section-title h2, .section-title h3 {
+    font-family: Montserrat;
+    color: white;
+
+}
