@@ -1957,6 +1957,7 @@ margin-top: -5%;
 }
 .gallery{
   margin-bottom: 20px;
+  height: max-content;
 }
 .gallery .main-section {
   background-image: url("https://t4.ftcdn.net/jpg/01/09/01/71/360_F_109017126_wVoLqjhzTE2cZwDGyfwp2lVkD4sxjEfV.jpg");
@@ -2012,9 +2013,7 @@ margin-top: -5%;
   .buttony{
     height: 5%;
   }
-  .gallery{
-    height: 190vh;
-  }
+ 
 }
 
 @media (max-width: 576px){
@@ -2032,9 +2031,7 @@ margin-top: -5%;
     width: 25%;
     margin-left: 37%;
   }
-  .gallery{
-    height: 380vh !important;
-  }
+  
 }
 .main-section {
   display: flex;
