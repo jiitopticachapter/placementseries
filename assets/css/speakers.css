@@ -198,6 +198,19 @@ h1 {
   align-content: center;
 
 }
+@media (max-width: 1440px)
+{
+  .speakers{
+    height: 160vh;
+  }
+}
+
+@media (max-width: 1024px)
+{
+  .speakers{
+    height: 200vh;
+  }
+}
 
 @media (max-width: 768px)
 {
